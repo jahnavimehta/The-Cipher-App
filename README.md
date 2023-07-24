@@ -9,7 +9,7 @@ Your one stop solution to protect your data from the hackers!
 - [Project Description](#project-description)
 - [Screenshots](#screenshots)
 - [Features](#features)
-- [Technology Stack](#technology-stack)
+- [Technology Aspect](#technology-aspect)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development Setup](#development-setup)
@@ -28,7 +28,7 @@ experience for users to protect their confidential messages with ease.
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
 
 <p align="center">
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/3b7bb29a-2238-400f-94c9-d2d634c20f6b" alt="Screenshot">
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/3b7bb29a-2238-400f-94c9-d2d634c20f6b" alt="Screenshot" width="250"> 
 </p>
 
 
