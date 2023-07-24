@@ -37,9 +37,9 @@ Symmetric cryptography uses the same key for both encryption and decryption, mak
 
 
 <div style="display: flex;">
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/e7dc4ac9-d208-4f27-a244-e333a82e2665" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/9f720b57-e11a-494d-bcee-58672c15ac28" alt="Screenshot 2" width="300" />
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/34dd7cc7-1678-4c64-b27f-b1012c395d3c" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/e7dc4ac9-d208-4f27-a244-e333a82e2665" alt="Screenshot 1" width="250" />
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/9f720b57-e11a-494d-bcee-58672c15ac28" alt="Screenshot 2" width="250" />
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/34dd7cc7-1678-4c64-b27f-b1012c395d3c" alt="Screenshot 3" width="250" />
 </div>
 
 
