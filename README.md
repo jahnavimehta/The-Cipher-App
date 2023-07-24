@@ -29,8 +29,8 @@ experience for users to protect their confidential messages with ease.
 
 <p align="center">
   <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/3b7bb29a-2238-400f-94c9-d2d634c20f6b" alt="Screenshot" width="250"> 
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/c885df85-24d5-4b77-9d5b-4ca7c705e36c" alt="Screenshot" width="250">
   <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/7f833b91-185f-4d82-9084-2d4ba3b22f12" alt="Screenshot" width="250">
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/c885df85-24d5-4b77-9d5b-4ca7c705e36c" alt="Screenshot" width="250">
 </p>
 
 
