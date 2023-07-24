@@ -35,12 +35,12 @@ Symmetric cryptography uses the same key for both encryption and decryption, mak
 ## Screenshots
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
 
-<p align="center">
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/3b7bb29a-2238-400f-94c9-d2d634c20f6b" alt="Screenshot" width="250"> 
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/7f833b91-185f-4d82-9084-2d4ba3b22f12" alt="Screenshot" width="250">
-  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/c885df85-24d5-4b77-9d5b-4ca7c705e36c" alt="Screenshot" width="250">
-</p>
 
+<div style="display: flex;">
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/e7dc4ac9-d208-4f27-a244-e333a82e2665" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/9f720b57-e11a-494d-bcee-58672c15ac28" alt="Screenshot 2" width="300" />
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/34dd7cc7-1678-4c64-b27f-b1012c395d3c" alt="Screenshot 3" width="300" />
+</div>
 
 
 
