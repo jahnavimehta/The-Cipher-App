@@ -53,7 +53,7 @@ Symmetric cryptography uses the same key for both encryption and decryption, mak
 
 - **Data Security:** Your data's security is our top priority. CipherApp leverages the Android Keystore system to securely store encryption keys and ensure your messages are protected from unauthorized access.
 
-- **Minimalist Design:** CipherApp boasts an elegant and intuitive design, providing a seamless user experience. The minimalist UI allows you to focus on the task at hand – encrypting and decrypting your messages with ease.
+- **Minimalist Design:** CipherApp boasts an elegant and intuitive design, providing a seamless user experience. The minimalist UI allows you to focus on the task at hand encrypting and decrypting your messages with ease.
 
 
 ## Technology Aspect:
