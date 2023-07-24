@@ -61,7 +61,7 @@ experience for users to protect their confidential messages with ease.
 
 
 **CipherHandler Class:**
--This class handles encryption and decryption using Android's Keystore system and AES encryption algorithm in Cipher Block Chaining (CBC) mode with PKCS7 padding.
+- This class handles encryption and decryption using Android's Keystore system and AES encryption algorithm in Cipher Block Chaining (CBC) mode with PKCS7 padding.
 -It utilizes Android's KeyStore to securely store and manage cryptographic keys.
 -The getKey() function retrieves an existing AES key from the Keystore or generates a new one if it doesn't exist.
 -The createKey() function generates a new AES key using KeyGenerator and specifies various encryption properties, such as block mode, padding, and encryption requirements.
