@@ -29,7 +29,10 @@ experience for users to protect their confidential messages with ease.
 
 <p align="center">
   <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/3b7bb29a-2238-400f-94c9-d2d634c20f6b" alt="Screenshot" width="250"> 
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/c885df85-24d5-4b77-9d5b-4ca7c705e36c" alt="Screenshot" width="250">
+  <img src="https://github.com/jahnavimehta/The-Cipher-App/assets/97538596/7f833b91-185f-4d82-9084-2d4ba3b22f12" alt="Screenshot" width="250">
 </p>
+
 
 
 
@@ -106,4 +109,4 @@ We welcome contributions to enhance the app and make it more effective. If you w
 If you have any questions or suggestions regarding the Cipher App, feel free to contact us:
 
 Email: jahnaviim@gmail.com
-Thank you for using the Medpanion App! We hope this app proves helpful in assessing potential cancer symptoms and encourages timely medical attention when needed. Your health is essential, and early detection can save lives. Remember to consult a healthcare professional for a thorough evaluation if you have any concerns.
+Thank you for using the Cipher App! We hope this app proves helpful in encrypting your messages with ease, ensuring privacy and peace of mind. Stay safe, stay secure.
