@@ -24,6 +24,8 @@ user data by securely managing cryptographic keys. With a minimalist and user-fr
 experience for users to protect their confidential messages with ease.
 
 
+Encryption and decryption are vital tools in cybersecurity, helping protect data from hacking threats. Encryption transforms data into an unreadable form (ciphertext) that can only be deciphered by authorized parties with the decryption key. This ensures sensitive information remains secure even if intercepted during transmission or stored on vulnerable systems, significantly reducing the risk of unauthorized access and data breaches.
+
 ## Screenshots
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
 
