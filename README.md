@@ -26,6 +26,12 @@ experience for users to protect their confidential messages with ease.
 
 Encryption and decryption are vital tools in cybersecurity, helping protect data from hacking threats. Encryption transforms data into an unreadable form (ciphertext) that can only be deciphered by authorized parties with the decryption key. This ensures sensitive information remains secure even if intercepted during transmission or stored on vulnerable systems, significantly reducing the risk of unauthorized access and data breaches.
 
+Cryptography is the science and practice of securing communication and data through the use of mathematical techniques and algorithms. Its primary objective is to protect information from unauthorized access and ensure data confidentiality, integrity, and authenticity. Cryptography has been used for centuries to encode sensitive messages and prevent eavesdropping by unauthorized individuals.
+
+Encryption involves converting plaintext data into an unintelligible form (ciphertext) using a cryptographic key and algorithm. Decryption, on the other hand, reverses the process, converting ciphertext back into readable plaintext using the same key.
+
+Symmetric cryptography uses the same key for both encryption and decryption, making it fast and efficient but requiring a secure key distribution mechanism. Asymmetric cryptography employs a pair of keys (public and private) for encryption and decryption, providing a secure way to exchange information over insecure channels.
+
 ## Screenshots
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
 
