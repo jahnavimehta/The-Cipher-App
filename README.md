@@ -62,31 +62,31 @@ experience for users to protect their confidential messages with ease.
 
 **CipherHandler Class:**
 - This class handles encryption and decryption using Android's Keystore system and AES encryption algorithm in Cipher Block Chaining (CBC) mode with PKCS7 padding.
--It utilizes Android's KeyStore to securely store and manage cryptographic keys.
--The getKey() function retrieves an existing AES key from the Keystore or generates a new one if it doesn't exist.
--The createKey() function generates a new AES key using KeyGenerator and specifies various encryption properties, such as block mode, padding, and encryption requirements.
--The encode() function takes a ByteArray of data to be encrypted and an OutputStream to write the encrypted data along with the initialization vector (IV) to an output file. It returns the encrypted data as a ByteArray.
--The decode() function takes an InputStream with the encrypted data and IV, decrypts the data using the corresponding key, and returns the decrypted data as a ByteArray.
+- It utilizes Android's KeyStore to securely store and manage cryptographic keys.
+- The getKey() function retrieves an existing AES key from the Keystore or generates a new one if it doesn't exist.
+- The createKey() function generates a new AES key using KeyGenerator and specifies various encryption properties, such as block mode, padding, and encryption requirements.
+- The encode() function takes a ByteArray of data to be encrypted and an OutputStream to write the encrypted data along with the initialization vector (IV) to an output file. It returns the encrypted data as a ByteArray.
+- The decode() function takes an InputStream with the encrypted data and IV, decrypts the data using the corresponding key, and returns the decrypted data as a ByteArray.
 
 
 **MainActivity:**
--This is the main activity that uses the CipherHandler to perform encryption and decryption.
--It sets up a Compose-based UI for user interaction.
--messageToEncodeState and messageToDecodeState are state variables used to hold the input message to be encrypted and the decrypted message, respectively.
--The Button with "Encode the data" label triggers the encryption process. The input message is converted to a ByteArray, and the encrypted data is written to a file named -"secret.txt". The encrypted data is then displayed in the messageToDecodeState.
--The Button with "Decode the data" label triggers the decryption process. The encrypted data is read from the "secret.txt" file, decrypted using the CipherHandler, and the original message is displayed in the messageToEncodeState.
+- This is the main activity that uses the CipherHandler to perform encryption and decryption.
+- It sets up a Compose-based UI for user interaction.
+- messageToEncodeState and messageToDecodeState are state variables used to hold the input message to be encrypted and the decrypted message, respectively.
+- The Button with "Encode the data" label triggers the encryption process. The input message is converted to a ByteArray, and the encrypted data is written to a file named - "secret.txt". The encrypted data is then displayed in the messageToDecodeState.
+- The Button with "Decode the data" label triggers the decryption process. The encrypted data is read from the "secret.txt" file, decrypted using the CipherHandler, and the original message is displayed in the messageToEncodeState.
 
 **BackgroundImage Composable:**
--This composable function is responsible for displaying the background image in the UI.
+- This composable function is responsible for displaying the background image in the UI.
 
 **Encryption Details:**
--AES encryption algorithm with CBC mode and PKCS7 padding is used for encryption and decryption.
--The SecretKey used for encryption is stored securely in the Android Keystore, ensuring its protection.
--Random IVs are generated and used for each encryption, enhancing the security of the encryption process.
+- AES encryption algorithm with CBC mode and PKCS7 padding is used for encryption and decryption.
+- The SecretKey used for encryption is stored securely in the Android Keystore, ensuring its protection.
+- Random IVs are generated and used for each encryption, enhancing the security of the encryption process.
 
 **Android API Compatibility:**
--The code uses features and classes available in Android API level 23 (Android 6.0) and above (Build.VERSION_CODES.M).
--It ensures that the code is backward-compatible for devices running Android 6.0 and later versions.
+- The code uses features and classes available in Android API level 23 (Android 6.0) and above (Build.VERSION_CODES.M).
+- It ensures that the code is backward-compatible for devices running Android 6.0 and later versions.
 
 
 ## Installation
